@@ -1,7 +1,7 @@
 # Generative AI Research Project
 
 ## 📂 Project Structure
-- `1_Literature_Review/` – Contains literature review materials  
+- 1_Literature_Review – Contains literature review materials  
   - `Journals/` – Journal articles  
   - `Conference_Articles/` – Conference papers  
   - `Books/` – Relevant books  
@@ -45,5 +45,4 @@
 - For edits, **create a new branch** first, then submit a Pull Request.  
 - Keep the folder structure organized to make collaboration easier.  
 
-## 📌 Contact
-For questions or suggestions, please contact: [Your Name or Email]  
+
